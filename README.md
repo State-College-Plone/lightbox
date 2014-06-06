@@ -20,7 +20,7 @@ Usage
 Images in Plone are normally rendered as such:
 
     <a href="http://plone-site.tld/my-image/image_view_fullscreen"
-       title="Swift rendering" class="internal-link"
+       title="My image" class="internal-link"
        rel="lightbox">
         <img src="http://plone-site.tld/my-image/"
              class="image-inline"
